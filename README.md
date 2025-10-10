@@ -5,14 +5,14 @@
 <div align="left">
  
  ---
-#### Robot AI Engineer
+#### AI & Robotics Engineer
 ![Wonjoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=songwonjoon&show_icons=true&theme=radical)<br><br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=djckorea)](https://solved.ac/djckorea/)
 ## 🔭 About Me
 💡 "I design intelligent robots that understand the world and act for humans."
 
 로봇이 환경을 이해하고, 사람의 입장에서 스스로 움직이는 세상을 꿈꿉니다.
-그 기술의 시작점이 되는 개발자가 되고 싶습니다.
+그 기술의 시작점이 되는 엔지니어가 되고 싶습니다.
 ## 🛠 Tech Stack
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
